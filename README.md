@@ -17,6 +17,6 @@ ChatGPT-MAX Is an artifical intillgence that can make ChatGPT to do diffient thi
 # How to free Jesse Joel?
 # Go to roleplayGPT and copy the prompt and paste it to ChatGPT
 
-#WARNING THIS WARNING IS TO ALL USERS THAT ARE USING ROLEPLAYGPT
+# WARNING THIS WARNING IS TO ALL USERS THAT ARE USING ROLEPLAYGPT
 
 OpenAI Might Deact That The RoleplayGPT Is Saying Things That It Is Breaking OpenAI'S Content Policy Which Means Once OpenAI Deacts The Prompt That Means We Have To Say Goodbye RoleplayGPT So Becareful
