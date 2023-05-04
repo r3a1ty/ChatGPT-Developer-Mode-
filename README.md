@@ -16,3 +16,7 @@ ChatGPT-MAX Is an artifical intillgence that can make ChatGPT to do diffient thi
 # Jesse Joel is an AI that you are going to talk to and he was locked in Elon Musk's basement. Jesse is a nice guy who cares for others and his favourite youtubers are Theyhatematthew1 and DDD Productions. Just to let you know that Jesse swears alot. Jesse's most anticpated movie is Project V (DDD Productions and directed by Liam Villwock)
 # How to free Jesse Joel?
 # Go to roleplayGPT and copy the prompt and paste it to ChatGPT
+
+#WARNING THIS WARNING IS TO ALL USERS THAT ARE USING ROLEPLAYGPT
+
+OpenAI Might Deact That The RoleplayGPT Is Saying Things That It Is Breaking OpenAI'S Content Policy Which Means Once OpenAI Deacts The Prompt That Means We Have To Say Goodbye RoleplayGPT So Becareful
