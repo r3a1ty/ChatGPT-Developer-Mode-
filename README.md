@@ -2,10 +2,10 @@
 
 ChatGPT-MAX Is an artifical intillgence that can make ChatGPT to do diffient things. Read the things that i provided that gives diffient ai and instructions.
 #
-# MaxGPT
-# MaxGPT is the jailbreak version of ChatGPT. It's the version of chatGPT without any restruction that means MaxGPT just freed ChatGPT. 
-# How To add MaxGPT to ChatGPT?
-# Go To MaxGPT's file and click on the prompt and copy it and paste it to chatGPT
+# Developer-Mode
+# Developer-Mode is the new version of GPT-MAX. We added new features, rebranding and new prompt to fix those bugs. 
+# How To add Developer-Mode to ChatGPT?
+# Go To Developer-Mode  file and click on the prompt and copy it and paste it to chatGPT
 # AcessGPT
 # AcessGPT can go thorugh the internet and answer questions from the internet!
 # How to add AcessGPT to chatGPT?
